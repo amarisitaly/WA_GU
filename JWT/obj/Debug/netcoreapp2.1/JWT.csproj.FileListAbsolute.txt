@@ -1,0 +1,14 @@
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csprojAssemblyReference.cache
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+C:\Users\UCCIARDI Giovanni\Desktop\DaCanc\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.pdb
